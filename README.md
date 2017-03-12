@@ -1,2 +1,2 @@
-# omtelolet
-Omtelolet om bot
+# consul-guru
+Add actionable command from consul nodes list
